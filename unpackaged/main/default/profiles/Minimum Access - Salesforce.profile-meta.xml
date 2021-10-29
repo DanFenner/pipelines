@@ -822,6 +822,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>pipeline__c.field_b__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>pipeline__c.field_a__c</field>
         <readable>true</readable>
     </fieldPermissions>
